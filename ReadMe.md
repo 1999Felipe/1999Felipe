@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de front end <br>estou a procura de estagio
+Sou estudante de front end.Busco oportunidades para aplicar minha paixão e habilidades no desenvolvimento web. Como desenvolvedor front end, meu objetivo é criar soluções digitais inovadoras e de alta qualidade que proporcionem uma experiência excepcional aos usuários. Estou comprometido em utilizar as mais recentes tecnologias e melhores práticas de desenvolvimento para construir sites e aplicativos responsivos, eficientes e acessíveis. Almejo colaborar com equipes dinâmicas, contribuindo para projetos desafiadores e impactantes, enquanto continuo aprendendo e evoluindo profissionalmente no campo do desenvolvimento web.
+
 
 
 ## 🌐 Socials:
